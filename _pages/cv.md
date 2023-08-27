@@ -9,51 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Download my Extended CV [**here**](https://drive.google.com/file/d/1Sv7ceLRyf222VohozwZkm70cy5PXcIwG/view?usp=sharing)   
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Download my Extended CV [**here**](https://drive.google.com/file/d/1HoFiqp0qtS2-q2GJjOk4dmxzoWuhlzZ-/view?usp=sharing)   
+Lattes CV [**here**](http://lattes.cnpq.br/8162203623076185)
 
-Work experience
+Education
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 – present:  PhD, Department of Geography – University of São Paulo (USP),Brazil  
+* 2015 – 2018:  Department of Geography – University of São Paulo (USP),Brazil  
+* 2009 – 2015:  Bachelor and Teaching degree in Geography – University of São Paulo (USP),Brazil 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Academic and professional experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2022 – 2022: PhD internship – University College London (UCL), London, United Kingdom (6 months; Apr – Sep)  
+* 2020 – 2021: Research Assistant in spatial analysis, MONITORA-CLUSTERS project, Institute of Advanced Studies, University of São Paulo, São Paulo, Brazil  
+* 2019 – 2019: Internship at the Epidemiology and Information Coordination (CEInfo), São Paulo’s Health Secretariat (SMS-SP) - GIS – Geocoding health data.  
+* 2017 – 2017: Master internship – University of Coimbra (UC), Coimbra, Portugal (6 months; Apr – Sep) 2013 – 2014 Undergraduate Exchange – Eötvös Loránd Tudományegyetem (ELTE), Budapest, Hungary (6 months; Sep - Feb)  
+* 2010 - 2010: Census taker (census enumerator), collecting responses to the 2010 Census – Brazilian Institute of Geography and Statistics (IBGE)b
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
