@@ -26,4 +26,22 @@ Academic and professional experience
 * 2017 – 2017: Master internship – University of Coimbra (UC), Coimbra, Portugal (6 months; Apr – Sep) 2013 – 2014 Undergraduate Exchange – Eötvös Loránd Tudományegyetem (ELTE), Budapest, Hungary (6 months; Sep - Feb)  
 * 2010 - 2010: Census taker (census enumerator), collecting responses to the 2010 Census – Brazilian Institute of Geography and Statistics (IBGE)
 
+Courses and complementary training
+======
+COURSES AND COMPLIMENTARY TRAINING
+* 2023: São Paulo School of Advanced Science on Epidemic Preparedness, University of 
+São Paulo (USP)
+* 2020: Study Designs in Epidemiology, Imperial College London (ICL), UK, (online 
+course)
+* 2020: Measuring Disease in Epidemiology, Imperial College London (ICL), UK, (online 
+course)
+* 2017: Uses of the Demographic Census database - Methodology and Applications 
+(Usos da base de dados do Censo Demográfico - Metodologia e Aplicações), 
+School of Public Health – University of São Paulo (USP), Brazil, (Short course)
+* 2016: Spatial Analysis in Public Health (Análise Espacial em Saúde Pública), School of 
+Public Health – University of São Paulo (USP), Brazil, (Course)
+* 2015: Bases for the implementation and validation of the biometeorological 
+prognostic service (Bases para a implementação e validação do serviço de 
+prognósticos biometeorológicos), School of Public Health – University of São 
+Paulo (USP), Brazil, (Short course)
 
