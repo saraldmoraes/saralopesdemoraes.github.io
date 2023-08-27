@@ -1,9 +1,11 @@
 ---
-title: " "
-collection: talks
-
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
-
 
 Workshops and Invited talks
 ======
