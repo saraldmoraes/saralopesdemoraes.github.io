@@ -17,7 +17,7 @@ I was trained in Geography and hold a Master's in Physical Geography from USP.
 My PhD aims to estimate the impacts of heatwaves, cold spells and mortality in São Paulo through an interdisciplinary lens. Within this framework, I focus on understanding the temporal and spatiotemporal distribution of the extreme heat and cold mortality risk related to social inequalities and the Urban Heat Island effect.
 
 
-**Interests:**
+**Research Interests:**
 * Urban climate
 * Environmental health
 * Social inequalities
