@@ -7,9 +7,9 @@ author_profile: true
 
 Peer review publications
 ======
-1. **Moraes, Sara Lopes De**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [*Impact of heat waves and cold spells on cause-specific mortality in the city of São Paulo, Brazil*. International Journal of Hygiene and Environmental Health, v. 239, p. 113861, 2022](https://doi.org/10.1016/j.ijheh.2021.113861)  
-2. Barrozo, Ligia Vizeu; Serafim, Mirela Barros; **Moraes, Sara Lopes De**; Mansur, Giselle. [*Monitoramento espaço-temporal das áreas de alto risco de covid-19 nos municípios do Brasil*. Hygeia Revista Brasileira de Geografia Médica e da Saúde, v. 1, p. 417-425, 2020](https://doi.org/10.14393/Hygeia0054547)
-3. **Moraes, S. L.**; Almendra, R.; Santana, P.; Galvani, E. [*Variáveis meteorológicas e poluição do ar e sua associação com internações respiratórias em crianças: estudo de caso em São Paulo*, Brasil. Cadernos De Saúde Pública, v. 35, p. 1, 2019](https://doi.org/10.1590/0102-311X00101418)
+1. **Moraes, Sara Lopes De**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Impact of heat waves and cold spells on cause-specific mortality in the city of São Paulo, Brazil.](https://doi.org/10.1016/j.ijheh.2021.113861) International Journal of Hygiene and Environmental Health, v. 239, p. 113861, 2022
+2. Barrozo, Ligia Vizeu; Serafim, Mirela Barros; **Moraes, Sara Lopes De**; Mansur, Giselle. [Monitoramento espaço-temporal das áreas de alto risco de covid-19 nos municípios do Brasil](https://doi.org/10.14393/Hygeia0054547) Hygeia Revista Brasileira de Geografia Médica e da Saúde, v. 1, p. 417-425, 2020
+3. **Moraes, S. L.**; Almendra, R.; Santana, P.; Galvani, E. [Variáveis meteorológicas e poluição do ar e sua associação com internações respiratórias em crianças: estudo de caso em São Paulo, Brasil](https://doi.org/10.1590/0102-311X00101418) Cadernos De Saúde Pública, v. 35, p. 1, 2019
 4. Santos, D. D.; **Moraes, S. L.**; Galvani, E. *Variação da temperatura do ar média, mínima e máxima no perfil topoclimático da trilha Caminhos do Mar (SP)*. Revista Equador, v. 5, p. 01-19, 2016
 5. **Moraes, S. L.**; Galvani, E. *A influência do fenômeno La Niña na variabilidade climática e na produtividade da batata no município de Ponta Grossa, PR*. Revista Equador, v. 4, p. 1050-1065-1065, 2015  
 6. **Moraes, S. L.**; Galvani, E. *Balanço hiírico climatológico no Município de Ponta Grossa, PR: aportes para o planejamento agrícola e hidrológico*. Revista Geonorte, v. 1, p. 987-999, 2012   
