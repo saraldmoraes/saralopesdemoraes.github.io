@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer review publications
-======
+**Peer review publications** 
 1. **Moraes, Sara Lopes De**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Impact of heat waves and cold spells on cause-specific mortality in the city of São Paulo, Brazil.](https://doi.org/10.1016/j.ijheh.2021.113861) International Journal of Hygiene and Environmental Health, v. 239, p. 113861, 2022
 2. Barrozo, Ligia Vizeu; Serafim, Mirela Barros; **Moraes, Sara Lopes De**; Mansur, Giselle. [Monitoramento espaço-temporal das áreas de alto risco de covid-19 nos municípios do Brasil](https://doi.org/10.14393/Hygeia0054547) Hygeia Revista Brasileira de Geografia Médica e da Saúde, v. 1, p. 417-425, 2020
 3. **Moraes, S. L.**; Almendra, R.; Santana, P.; Galvani, E. [Variáveis meteorológicas e poluição do ar e sua associação com internações respiratórias em crianças: estudo de caso em São Paulo, Brasil](https://doi.org/10.1590/0102-311X00101418) Cadernos De Saúde Pública, v. 35, p. 1, 2019
@@ -16,8 +15,7 @@ Peer review publications
 &nbsp;
  
 
-Book Chapters and extended conference papers
-======
+**Book Chapters and extended conference papers**  
 1. **Moraes, S. L.** ; Barrozo, L. V. *Agrupamentos espaciais do risco relativo da mortalidade de idosos por doenças do aparelho circulatório e respiratório durante ondas de calor em São Paulo, SP.* In: Ribeiro, E.A.W.; Miranda, M.; Castro, R.C. (Org.). Mudanças Ambientais, Desastres e Vulnerabilidade Social. 1ed.Blumenau: Instituto Federal Catarinense, 2019, v. 1, p. 27-35.
 2. **Moraes, S. L.**; BARROZO, L. V. *INTERNAÇÕES DE CRIANÇAS POR INFLUENZA E PNEUMONIA E SUA RELAÇÃO COM OS ATRIBUTOS CLIMÁTICOS E A POLUIÇÃO ATMOSFÉRICA EM SÃO PAULO, SP*. In: XIII ENCONTRO NACIONAL DA ASSOCIAÇÃO NACIONAL DE PÓS-GRADUAÇÃO E PESQUISA EM GEOGRAFIA, 2019, São Paulo. Anais do XIII Encontro Nacional da ENANPEGE, 2019. v. 1. p. 1-12.
 3. **Moraes, S. L.** ; Galvani, E. *Variabilidade climática e a influência dos fenômenos El Niño E La Niña na produtividade da cultura da batata em Ponta Grossa, PR*. In: Emerson Galvani; João Paulo Assis Gobo; Nadia Gilma Beserra de Lima. (Org.). Climatologia Aplicada II. 1ed.Curitiba: CRV, 2018, v. 1, p. 45-56.
