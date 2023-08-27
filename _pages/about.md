@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a PhD candidate at the University of São Paulo (USP), Brazil. During my PhD, I was a visiting researcher at University College London (UCL), UK and the University of Coimbra (UC), Portugal. I am a member of the [HEROIC project: Health and Economic Impacts of Reducing Overheating in Cities] (https://www.ucl.ac.uk/bartlett/environmental-design/research-projects/2023/jul/heroic-health-and-economic-impacts-reducing-overheating-cities) and the [Urban Space and Health Research Group[ (https://espacourbanoesaude.iea.usp.br/).
+I am a PhD candidate at the University of São Paulo (USP), Brazil. During my PhD, I was a visiting researcher at University College London (UCL), UK and the University of Coimbra (UC), Portugal. I am a member of the [HEROIC project: Health and Economic Impacts of Reducing Overheating in Cities](https://www.ucl.ac.uk/bartlett/environmental-design/research-projects/2023/jul/heroic-health-and-economic-impacts-reducing-overheating-cities) and the [Urban Space and Health Research Group](https://espacourbanoesaude.iea.usp.br/).
 
 I was trained in Geography and hold a Master's in Physical Geography from USP. 
 
@@ -26,7 +26,7 @@ My PhD aims to estimate the impacts of heatwaves, cold spells and mortality in S
 * Small area data
 
 
-[**Download my CV**]([https://drive.google.com/file/d/1Sv7ceLRyf222VohozwZkm70cy5PXcIwG/view?usp=sharing](https://drive.google.com/file/d/1HoFiqp0qtS2-q2GJjOk4dmxzoWuhlzZ-/view?usp=sharing)https://drive.google.com/file/d/1HoFiqp0qtS2-q2GJjOk4dmxzoWuhlzZ-/view?usp=sharing)
+[**Download my CV**](https://drive.google.com/file/d/1HoFiqp0qtS2-q2GJjOk4dmxzoWuhlzZ-/view?usp=sharing)
 
 
 
