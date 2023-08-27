@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Talks and presentations "
 permalink: /talks/
 author_profile: true
 redirect_from:
@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 
-Workshops and Invited talks
+Invited talks
 ======
-* 2023 - Introduction to Local Climate Zone Mapping, University of Coimbra, Portugal, (workshop)
 * 2022 - Local Climate Zones: methodology and application, University of São Paulo, Brazil (short course)
 * 2022 - 1st Annual Health Geography Symposium for Ph.D. and emerging researchers, online (chair and co-chair of sessions)
 * 2020 - Swissnex Webinar: Urban living, climate change and sustainability, Swissnex, Swiss Confederation  
