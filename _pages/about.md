@@ -29,4 +29,9 @@ My PhD aims to estimate the impacts of heatwaves, cold spells and mortality in S
 [**Download my CV**](https://drive.google.com/file/d/1HoFiqp0qtS2-q2GJjOk4dmxzoWuhlzZ-/view?usp=sharing)
 
 
+**Contact details**
+Sara Lopes de Moraes | sara.moraes@usp.br | saraldmoraes@gmail.com
+
+
+
 
