@@ -21,9 +21,7 @@ My PhD aims to estimate the impacts of heatwaves, cold spells and mortality in S
 * Urban climate
 * Environmental health
 * Social inequalities
-* Non-communicable diseases 
 * Space and space-time models
-* Small area data
 
 
 [**Download my CV**](https://drive.google.com/file/d/1B3j9dWexwbHvLwIAOjSYz8aJsWrBc8Vq/view?usp=sharing)
