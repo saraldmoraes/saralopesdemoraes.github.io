@@ -15,7 +15,8 @@ redirect_from:
 * 2021 - Supervised Internship in Climatology, Departament of Geography, University of São Paulo, Brazil (guest lecture)
 * 2019 - Thematic Cartography, Departament of Geography, University of São Paulo, Brazil (guest lecture)  
 &nbsp; 
-&nbsp; 
+&nbsp;
+   
 **Teaching Assistant, USP São Paulo**
 * Systematic Cartographic Elements (2021)
 * Thematic cartography (2019 and 2020)
