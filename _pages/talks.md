@@ -9,11 +9,10 @@ redirect_from:
 
 &nbsp; 
 **Invited talks**
-* 2022 - Local Climate Zones: methodology and application, University of São Paulo, Brazil (short course)
 * 2022 - 1st Annual Health Geography Symposium for Ph.D. and emerging researchers, online (chair and co-chair of sessions)
 * 2020 - Swissnex Webinar: Urban living, climate change and sustainability, Swissnex, Swiss Confederation  
 &nbsp;
-&nbsp;
+&nbsp;  
 
 **Peer reviewed presentations**
 * 2022 - 1st Annual Health Geography Symposium for Ph.D. and emerging researchers, online
