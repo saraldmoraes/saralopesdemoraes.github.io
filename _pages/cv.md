@@ -29,7 +29,6 @@ Academic and professional experience
 
 Courses and complementary training
 ======
-COURSES AND COMPLIMENTARY TRAINING
 * 2023: São Paulo School of Advanced Science on Epidemic Preparedness, University of 
 São Paulo (USP)
 * 2020: Study Designs in Epidemiology, Imperial College London (ICL), UK, (online 
