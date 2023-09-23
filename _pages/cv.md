@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download my Extended CV** [**here**](https://drive.google.com/file/d/1fT81Rf-lM2Xnwo79Ybt5DQjAUfcc52Oa/view?usp=drive_link) 
+**Download my Extended CV** [**here**](https://drive.google.com/file/d/1U-ctn0pq2dlP2unxoadOmIoAEO3R0XWc/view?usp=sharing)
 
 **Lattes CV** [**here**](http://lattes.cnpq.br/8162203623076185)
 
