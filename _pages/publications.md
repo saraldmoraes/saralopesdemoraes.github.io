@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Peer review publications** 
-1. **Moraes, Sara Lopes de**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Space-time clusters of cardiovascular mortality and the role of heatwaves and cold spells in the city of São Paulo, Brazil](https://doi.org/10.1016/j.sste.2023.100620). Spatial And Spatio-Temporal Epidemiology, v. 47, p. 100620, 2023.  https://doi.org/10.1016/j.sste.2023.100620 
+1. **Moraes, Sara Lopes de**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Space-time clusters of cardiovascular mortality and the role of heatwaves and cold spells in the city of São Paulo, Brazil](https://doi.org/10.1016/j.sste.2023.100620). Spatial And Spatio-Temporal Epidemiology, v. 47, p. 100620, 2023.  
 2. Santurtún A, **Moraes SL**, Fdez-Arroyabe P, Obregón M, Almendra R. [Descriptive analysis of occupational accidents in Spain and their relationship with heatwaves](https://doi.org/10.1016/j.ypmed.2023.107697) Preventive Medicine. 2023 Sep 2:107697 
 3. **Moraes, Sara Lopes De**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Impact of heat waves and cold spells on cause-specific mortality in the city of São Paulo, Brazil.](https://doi.org/10.1016/j.ijheh.2021.113861) International Journal of Hygiene and Environmental Health, v. 239, p. 113861, 2022
 4. Barrozo, Ligia Vizeu; Serafim, Mirela Barros; **Moraes, Sara Lopes De**; Mansur, Giselle. [Monitoramento espaço-temporal das áreas de alto risco de covid-19 nos municípios do Brasil](https://doi.org/10.14393/Hygeia0054547) Hygeia Revista Brasileira de Geografia Médica e da Saúde, v. 1, p. 417-425, 2020
