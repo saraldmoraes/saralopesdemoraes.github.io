@@ -17,7 +17,7 @@ I am a Postdoctoral Research Fellow in the Department of Preventive Medicine at 
 Postdoctoral Research Fellow →  University of São Paulo, 2023-  
 PhD, Geography →  University of São Paulo, 2018-2023  
 Master degree, Geography →  University of São Paulo, 2015-2018  
-BA and Teaching degree in Geography → University of São Paulo, 2009-2015  
+Bachelor and Teaching degree in Geography → University of São Paulo, 2009-2015  
 
 
 
