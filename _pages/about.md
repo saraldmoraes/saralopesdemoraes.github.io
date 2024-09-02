@@ -14,6 +14,7 @@ I am a Postdoctoral Research Fellow in the Department of Preventive Medicine at 
 
 
 **Training:**
+
 Postdoctoral Research Fellow →  University of São Paulo, 2023-
 
 PhD, Geography →  University of São Paulo, 2018-2023
