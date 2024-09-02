@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sara Lopes de Moraes"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at University of São Paulo - USP | Health Geography"
+  bio              : "Postdoc at University of São Paulo - USP"
   location         : "São Paulo, Brazil"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BQd6SAwAAAAJ&hl=pt-BR"
-  email            : "sara.moraes@usp.br"
+  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=2CRfGxgAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "saraldmoraes@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Sara-Lopes-De-Moraes"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "saralopesdemoraes"
+  github           : "saralmoraes"
   google_plus      :
   keybase          :
   instagram        :
