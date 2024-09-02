@@ -10,25 +10,21 @@ redirect_from:
 
 
 
-I am a PhD candidate at the University of São Paulo (USP), Brazil. During my PhD, I was a visiting researcher at University College London (UCL), UK and the University of Coimbra (UC), Portugal. I am a member of the [HEROIC project: Health and Economic Impacts of Reducing Overheating in Cities](https://www.ucl.ac.uk/bartlett/environmental-design/research-projects/2023/jul/heroic-health-and-economic-impacts-reducing-overheating-cities) and the [Urban Space and Health Research Group](https://espacourbanoesaude.iea.usp.br/).
-
-I was trained in Geography and hold a Master's in Physical Geography from USP. 
-
-My PhD aims to estimate the impacts of heatwaves, cold spells and mortality in São Paulo through an interdisciplinary lens. Within this framework, I focus on understanding the temporal and spatiotemporal distribution of the extreme heat and cold mortality risk related to social inequalities and the Urban Heat Island effect.
+I am a Postdoctoral Research Fellow in the Department of Preventive Medicine at University of São Paulo (USP), Brazil. I am a member of the [Climate Change and Urban Health in Latin America Project (SALURBAL-Climate) project (2023-2028)](https://drexel.edu/lac/salurbal/climate/) and the Drexel Climate Change and Urban Health Research Center (CCUH). My recent research focuses on urban climate and health in Latin America cities.
 
 
-**Research Interests:**
-* Urban climate
-* Environmental health
-* Social inequalities
-* Space and space-time models
+**Training:**
+Postdoctoral Research Fellow →  University of São Paulo, 2023-
+PhD, Geography →  University of São Paulo, 2018-2023
+Master degree, Geography →  University of São Paulo, 2015-2018
+BA and Teaching degree in Geography → University of São Paulo, 2009-2015
 
 
 [**Download my CV**](https://drive.google.com/file/d/1U-ctn0pq2dlP2unxoadOmIoAEO3R0XWc/view?usp=sharing)
 
 
 **Contact details:**
- sara.moraes@usp.br | saraldmoraes@gmail.com
+saraldmoraes@gmail.com
 
 
 
