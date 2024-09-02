@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* 2018 – present:  PhD, Department of Geography – University of São Paulo (USP), Brazil  
+* 2018 – 2023:  PhD, Department of Geography – University of São Paulo (USP), Brazil  
 * 2015 – 2018:  Department of Geography – University of São Paulo (USP), Brazil  
 * 2009 – 2015:  Bachelor and Teaching degree in Geography – University of São Paulo (USP), Brazil 
 
