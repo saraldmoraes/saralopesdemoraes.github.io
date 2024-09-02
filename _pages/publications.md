@@ -6,14 +6,16 @@ author_profile: true
 ---
 
 **Peer review publications** 
-1. **Moraes, Sara Lopes de**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Space-time clusters of cardiovascular mortality and the role of heatwaves and cold spells in the city of São Paulo, Brazil](https://doi.org/10.1016/j.sste.2023.100620). Spatial And Spatio-Temporal Epidemiology, v. 47, p. 100620, 2023.  
-2. Santurtún A, **Moraes SL**, Fdez-Arroyabe P, Obregón M, Almendra R. [Descriptive analysis of occupational accidents in Spain and their relationship with heatwaves](https://doi.org/10.1016/j.ypmed.2023.107697) Preventive Medicine. 2023 Sep 2:107697 
-3. **Moraes, Sara Lopes De**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Impact of heat waves and cold spells on cause-specific mortality in the city of São Paulo, Brazil.](https://doi.org/10.1016/j.ijheh.2021.113861) International Journal of Hygiene and Environmental Health, v. 239, p. 113861, 2022
-4. Barrozo, Ligia Vizeu; Serafim, Mirela Barros; **Moraes, Sara Lopes De**; Mansur, Giselle. [Monitoramento espaço-temporal das áreas de alto risco de covid-19 nos municípios do Brasil](https://doi.org/10.14393/Hygeia0054547) Hygeia Revista Brasileira de Geografia Médica e da Saúde, v. 1, p. 417-425, 2020
-5. **Moraes, S. L.**; Almendra, R.; Santana, P.; Galvani, E. [Variáveis meteorológicas e poluição do ar e sua associação com internações respiratórias em crianças: estudo de caso em São Paulo, Brasil](https://doi.org/10.1590/0102-311X00101418) Cadernos De Saúde Pública, v. 35, p. 1, 2019
-6. Santos, D. D.; **Moraes, S. L.**; Galvani, E. *Variação da temperatura do ar média, mínima e máxima no perfil topoclimático da trilha Caminhos do Mar (SP)*. Revista Equador, v. 5, p. 01-19, 2016
-7. **Moraes, S. L.**; Galvani, E. *A influência do fenômeno La Niña na variabilidade climática e na produtividade da batata no município de Ponta Grossa, PR*. Revista Equador, v. 4, p. 1050-1065-1065, 2015  
-8. **Moraes, S. L.**; Galvani, E. *Balanço hiírico climatológico no Município de Ponta Grossa, PR: aportes para o planejamento agrícola e hidrológico*. Revista Geonorte, v. 1, p. 987-999, 2012   
+1.**Moraes, Sara Lopes de**; Brousse, Oscar ; Simpson, Charles; Almendra, Ricardo; Barrozo, Ligia Vizeu ; Heaviside, Clare . The potential burden from urbanisation on heat-related mortality in São Paulo, Brazil. URBAN CLIMATE, v. 57, p. 102104, 2024. [https://doi.org/10.1016/j.uclim.2024.102104](https://doi.org/10.1016/j.uclim.2024.102104). [Access here on my personal homepage](https://drive.google.com/file/d/1FRU2MnwMXJErO00tXXgBRUCKDDmwRELg/view?usp=sharing)
+2. Marques, L.R. ; **Moraes, Sara Lopes de**; Morato, R.G. ; Ribeiro, Z. M.. [Clima e casos de dengue em São Luís, Maranhão, Brasil. REVISTA DO DEPARTAMENTO DE GEOGRAFIA](https://www.revistas.usp.br/rdg/article/view/193353), v. 43, p. 1-14, 2023 
+**Moraes, Sara Lopes de**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Space-time clusters of cardiovascular mortality and the role of heatwaves and cold spells in the city of São Paulo, Brazil](https://doi.org/10.1016/j.sste.2023.100620). Spatial And Spatio-Temporal Epidemiology, v. 47, p. 100620, 2023.  
+3. Santurtún A, **Moraes SL**, Fdez-Arroyabe P, Obregón M, Almendra R. [Descriptive analysis of occupational accidents in Spain and their relationship with heatwaves](https://doi.org/10.1016/j.ypmed.2023.107697) Preventive Medicine. 2023 Sep 2:107697 
+4. **Moraes, Sara Lopes De**; Almendra, Ricardo; Barrozo, Ligia Vizeu. [Impact of heat waves and cold spells on cause-specific mortality in the city of São Paulo, Brazil.](https://doi.org/10.1016/j.ijheh.2021.113861) International Journal of Hygiene and Environmental Health, v. 239, p. 113861, 2022
+5. Barrozo, Ligia Vizeu; Serafim, Mirela Barros; **Moraes, Sara Lopes De**; Mansur, Giselle. [Monitoramento espaço-temporal das áreas de alto risco de covid-19 nos municípios do Brasil](https://doi.org/10.14393/Hygeia0054547) Hygeia Revista Brasileira de Geografia Médica e da Saúde, v. 1, p. 417-425, 2020
+6. **Moraes, S. L.**; Almendra, R.; Santana, P.; Galvani, E. [Variáveis meteorológicas e poluição do ar e sua associação com internações respiratórias em crianças: estudo de caso em São Paulo, Brasil](https://doi.org/10.1590/0102-311X00101418) Cadernos De Saúde Pública, v. 35, p. 1, 2019
+7. Santos, D. D.; **Moraes, S. L.**; Galvani, E. *Variação da temperatura do ar média, mínima e máxima no perfil topoclimático da trilha Caminhos do Mar (SP)*. Revista Equador, v. 5, p. 01-19, 2016
+8. **Moraes, S. L.**; Galvani, E. *A influência do fenômeno La Niña na variabilidade climática e na produtividade da batata no município de Ponta Grossa, PR*. Revista Equador, v. 4, p. 1050-1065-1065, 2015  
+9. **Moraes, S. L.**; Galvani, E. *Balanço hiírico climatológico no Município de Ponta Grossa, PR: aportes para o planejamento agrícola e hidrológico*. Revista Geonorte, v. 1, p. 987-999, 2012   
 &nbsp;
  
 
